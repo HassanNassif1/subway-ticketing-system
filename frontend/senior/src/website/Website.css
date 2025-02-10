@@ -1,0 +1,143 @@
+
+
+.Train-wallpaper{
+margin-top:-70px;
+margin-left:350px;
+width:50%;
+
+}
+.nav-item{
+    color:orange;
+}
+.Text{
+    margin-left:400px;
+}
+.text{
+    margin-top:-400px;
+    margin-left:150px;
+    color:rgb(255, 183, 0);
+   
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.Button{
+    margin:400px;
+    margin-top:25px;
+    height:70px;
+   
+}
+
+.Signin{
+   
+    height:40px;
+    width:400px;
+}
+
+.inputfield{
+    height:40px;
+    width:400px;
+}
+.userform{
+  margin-top:2px;
+  margin-left:-80px;
+   
+}
+
+.user{
+    
+    margin-left:613px;
+    height:300px;
+    width:400px;
+    border-radius: 0%;
+    -webkit-border-radius: 0%;
+    -moz-border-radius: 0%;
+    -ms-border-radius: 0%;
+    -o-border-radius: 0%;
+}
+
+.aboutus{
+   margin-left: 400px;
+    height:400px;
+    width:500px;
+    
+    Position:fixed!important;
+}
+.newimgs{
+    color:rgba(247, 121, 3, 0.87);
+}
+
+.Carousel{
+    margin-top:-100px;
+}
+.d-block{
+height:700px;
+width:300px;
+}
+.slidertext{
+    color:rgb(122, 183, 248);
+   
+   
+
+}
+.App {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .chartbg{
+    background-color:rgb(167, 196, 240);
+    color:rgb(20, 72, 131);
+  }
+
+  .covid{
+      margin-left:20px;
+  }
+
+  .available{
+    margin:40px;
+    background-color: rgba(195, 119, 20, 0.987);
+    color:rgb(255, 255, 255);
+    border-color: transparent;
+    min-width:300px;
+    margin-left:15px;
+}
+.thead{
+    color:rgb(255, 255, 255);
+    background-color: rgb(255, 111, 0);
+}
+
+.ticketform{
+    background-image: url('ticket.jpg');
+    
+background-repeat: no-repeat;
+    
+}
+
+.tripbg{
+    background-image: url('p.png');
+    height:600px;
+    margin-top:-100px;
+}
+
+.ol{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+   
+}
+
+.inline{
+    display: inline-block;
+
+}
+
+.img:hover{
+  height:510px;
+  width:710px;
+  cursor: pointer;
+  transition:all 300ms ease;
+  -webkit-transition:all 300ms ease;
+  -moz-transition:all 300ms ease;
+  -ms-transition:all 300ms ease;
+  -o-transition:all 300ms ease;
+}

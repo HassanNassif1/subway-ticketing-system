@@ -1,0 +1,18 @@
+.icon{
+    height: 200px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.seat{
+    height:35px;
+    width:35px;
+}
+.icons-inline{
+    display: inline-block;
+ 
+}
+.Link{
+    color:rgb(40, 40, 75);
+    text-decoration: none;
+}
